@@ -13,7 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #6288d9;
-    background-image: url(/loginbacknew.png);
+    background-image: url(loginbacknew.png);
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(8px);
